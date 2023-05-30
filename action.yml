@@ -1,5 +1,5 @@
 name: 'My first container action'
-description 'test for creating cointainer'
+description: 'test for creating cointainer'
 author: 'Eduardo Mejia'
 inputs:
   myInput:
